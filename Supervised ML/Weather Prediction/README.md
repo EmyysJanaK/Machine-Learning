@@ -25,7 +25,7 @@ This python script is a simple implementation of a Logistic Regression model to 
                    pip install pandas
                 ```
 
-pip install pandas
+
 
 ## Usage
 
