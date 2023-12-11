@@ -33,6 +33,7 @@ This python script is a simple implementation of a Logistic Regression model to 
 
 After all is set, You can run the model in your code editor
 
+![Alt text](image.png)
 
 ## Contributing
 
