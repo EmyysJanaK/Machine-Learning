@@ -38,14 +38,14 @@ After all is set, You can run the model in your code editor:
     python main.py
     ```
 
-## Test Case 01
-
-  ![Alt text](Capture1.png)
-  ![Alt text](image.png)
 
 
+![Alt text](Capture1.png)
+![Alt text](Capture11.png)  
 
-## Test Case 02
+
+
+
 
 ![Alt text](Capture2.png)
 
