@@ -33,7 +33,6 @@ This python script is a simple implementation of a <b>Logistic Regression model<
 
 
 ## Usage
-
 After all is set, You can run the model in your code editor:
     ```plaintext
     python main.py
@@ -41,7 +40,7 @@ After all is set, You can run the model in your code editor:
 
 ## Test Case 01
 
-![Alt text](Capture1.png)
+  ![Alt text](Capture1.png)
 
 
 
