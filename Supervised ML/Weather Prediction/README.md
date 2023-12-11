@@ -4,7 +4,8 @@
 
 ## Description
 
-A brief description of your project goes here. Explain what the project does and its main features.
+This python script is a simple implementation of a Logistic Regression model to predict weather conditions(n = 4) based on temperature, humidity and wind speed.
+
 
 ## Table of Contents
 
@@ -16,7 +17,10 @@ A brief description of your project goes here. Explain what the project does and
 
 ## Installation
 
-Provide instructions on how to install and set up the project. Include any dependencies or prerequisites.
+1. Clone the repository: https://github.com/EmyysJanaK/Machine-Learning/tree/main/Supervised%20ML/Weather%20Prediction
+2. Navigate into the cloned repository: cd your-repo-name
+3. Install the required Python packages: pip install scikit-learn
+pip install pandas
 
 ## Usage
 
