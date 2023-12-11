@@ -4,7 +4,7 @@
 
 ## Description
 
-This python script is a simple implementation of a Logistic Regression model to predict weather conditions(n = 4) based on temperature, humidity and wind speed.
+This python script is a simple implementation of a Logistic Regression model to predict weather conditions (n = 4) based on temperature, humidity and wind speed.
 
 
 ## Table of Contents
