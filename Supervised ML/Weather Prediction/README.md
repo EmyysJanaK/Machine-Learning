@@ -41,6 +41,7 @@ After all is set, You can run the model in your code editor:
 ## Test Case 01
 
   ![Alt text](Capture1.png)
+  ![Alt text](image.png)
 
 
 
