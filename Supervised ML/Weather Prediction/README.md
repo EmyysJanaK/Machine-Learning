@@ -19,7 +19,12 @@ This python script is a simple implementation of a Logistic Regression model to 
 
 1. Clone the repository: https://github.com/EmyysJanaK/Machine-Learning/tree/main/Supervised%20ML/Weather%20Prediction
 2. Navigate into the cloned repository: cd your-repo-name
-3. Install the required Python packages: pip install scikit-learn
+3. Install the required Python packages: 
+                ```plaintext
+                   pip install scikit-learn
+                   pip install pandas
+                ```
+
 pip install pandas
 
 ## Usage
