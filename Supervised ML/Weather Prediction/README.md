@@ -35,9 +35,9 @@ This python script is a simple implementation of a <b>Logistic Regression model<
 ## Usage
 
 After all is set, You can run the model in your code editor:
-        ```plaintext
+    ```plaintext
         python main.py
-        ```
+    ```
 
 
 
