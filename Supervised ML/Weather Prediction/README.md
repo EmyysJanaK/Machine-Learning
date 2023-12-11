@@ -40,7 +40,7 @@ After all is set, You can run the model in your code editor
 
 ## Test Case 01
 
-    ![Alt text](Capture1.PNG)
+    ![Alt text](Capture1.png)
     ![Alt text](Capture11.PNG)
 
 ## Test Case 02
