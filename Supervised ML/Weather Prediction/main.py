@@ -3,10 +3,11 @@ from sklearn.linear_model import LogisticRegression # Regression model
 from sklearn.preprocessing import LabelEncoder, StandardScaler # Normalizing labels and standardization.
 import pandas as pd # For data manipulation and analysis purposes.
 
-# Load the weather data
-data = pd.read_csv('weather_data.csv')
 
-# Prepare the data
+# Load the weather data
+data = pd.read_csv('C://Users//janak//Desktop//GitHub//New folder//Machine-Learning//Supervised ML//Weather Prediction')
+
+# Prepare the data  for training   
 X = data[['temperature', 'humidity', 'wind_speed']]
 y = data['weather_condition']
 
@@ -19,7 +20,7 @@ scaler = StandardScaler()
 X = scaler.fit_transform(X)
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, train_size = 0.8, random_state=42)
 
 # Create and train the model
 model = LogisticRegression(max_iter=1000) # Train with 1000 iterations.

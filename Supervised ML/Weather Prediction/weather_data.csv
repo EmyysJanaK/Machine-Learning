@@ -297,3 +297,5 @@ temperature,humidity,wind_speed,weather_condition
 22,78,8,Thunder
 20,75,6,Normal
 21,74,9,Rainy
+22,78,1,Sunny
+22,79,8,Thunder
