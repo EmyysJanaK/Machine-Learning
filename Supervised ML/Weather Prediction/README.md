@@ -38,6 +38,16 @@ After all is set, You can run the model in your code editor
 
 ![Alt text](image.png)
 
+## Test Case 01
+
+    ![Alt text](Capture1.PNG)
+    ![Alt text](Capture11.PNG)
+
+## Test Case 02
+
+    ![Alt text](Capture2.PNG)
+    ![Alt text](Capture21.PNG)
+
 
 ## Contributing
 

@@ -5,7 +5,7 @@ import pandas as pd # For data manipulation and analysis purposes.
 
 
 # Load the weather data
-data = pd.read_csv('C://Users//janak//Desktop//GitHub//New folder//Machine-Learning//Supervised ML//Weather Prediction')
+data = pd.read_csv('C:/Users/janak/Desktop/GitHub/New folder/Machine-Learning/Supervised ML/Weather Prediction/weather_data.csv')
 
 # Prepare the data  for training   
 X = data[['temperature', 'humidity', 'wind_speed']]
@@ -28,7 +28,7 @@ model.fit(X_train, y_train)
 
 
 # Make predictions
-new_data = pd.DataFrame([[25, 70, 10]], columns=['temperature', 'humidity', 'wind_speed'])
+new_data = pd.DataFrame([[19, 72, 11]], columns=['temperature', 'humidity', 'wind_speed'])
 new_data = scaler.transform(new_data)  # scale the new data in the same way as the training data
 prediction = model.predict(new_data)
 
